@@ -5,7 +5,7 @@ def reverse_each_word(given_string)
     words.reverse 
   end
   
-  
+  split_string_array.
   
   
 end
